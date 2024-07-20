@@ -2,7 +2,7 @@
 <!-- <img src='avatar.svg' alt="me" width='400'/> -->
 <summary align="center">
 <samp>
-18u4387@student.mau.edu.ng:~$ <kbd><samp>echo User</samp></kbd>
+yisanet@gmail.com:~$ <kbd><samp>echo User</samp></kbd>
 </samp>
 </summary>
 
